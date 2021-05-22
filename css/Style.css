@@ -1,0 +1,44 @@
+#column{
+
+background: black;
+color: white;
+font-size: 30px;
+}
+
+.imagenes{
+
+height: 500px;
+
+}
+
+.titulos{
+
+color: white;
+text-align: center;
+
+}
+
+.seccion{
+
+    background: #5C5D8D;
+}
+.formulario{
+
+    background: #5C5D8D;
+    color: white;
+    font-size: large;
+}
+
+.redes{
+
+
+	height: 50px;
+	width: 50px;
+}
+.textos{
+
+font-size: large;
+color: white;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
